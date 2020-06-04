@@ -1,0 +1,18 @@
+html {
+    width: 300px;
+    margin-left: 450px;
+    margin-right: 450px;
+    }
+
+    p {
+        border: 3px solid black;
+        border-bottom: 1.5px;
+        margin: 0px;
+        padding: 10px;
+      }
+    #first-cell {
+        border-top: 0px;
+    }
+    a:hover {
+        background-color: orange;
+     }
